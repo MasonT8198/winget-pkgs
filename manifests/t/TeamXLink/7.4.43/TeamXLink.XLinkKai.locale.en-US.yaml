@@ -1,0 +1,27 @@
+# Created with YamlCreate.ps1 v2.1.2 $debug=AUSU.7-2-5
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.1.0.schema.json
+
+PackageIdentifier: TeamXLink.XLinkKai
+PackageVersion: 7.4.43
+PackageLocale: en-US
+Publisher: TeamXLink
+PublisherUrl: https://www.teamxlink.co.uk
+Author: MasonT8198
+PackageName: TeamXLink
+PackageUrl: https://www.teamxlink.co.uk
+ShortDescription: XLink Kai connects gamers on older consoles together to play LAN-Play titles over the internet.
+Description: |-
+   XLink Kai is a global gaming network - bringing together Xbox, Xbox 360, 
+ Xbox One, Xbox Series X/S, Playstation 2, Playstation 3, Playstation 4,
+ Playstation 5, PSP, PS Vita, Gamecube, Wii, Wiiu, and Switch, users, in 
+ one integrated community. It is software running on your PC or Macintosh 
+ that allows you to  play system-link enabled games online for free. 
+ Kai is the only service that is not console specific, and boasts one of
+ the friendliest communities available.
+Moniker: xlinkkai
+Tags:
+- gaming
+- tunneling
+- networking
+ManifestType: defaultLocale
+ManifestVersion: 1.1.0
