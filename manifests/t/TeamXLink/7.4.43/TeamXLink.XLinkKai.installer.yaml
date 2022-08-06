@@ -1,0 +1,19 @@
+# Created with YamlCreate.ps1 v2.1.2 $debug=AUSU.7-2-5
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.1.0.schema.json
+
+PackageIdentifier: TeamXLink.XLinkKai
+PackageVersion:7.4.43
+Platform:
+- Windows.Desktop
+MinimumOSVersion: 10.0.0.0
+InstallerType: nullsoft
+Scope: machine
+InstallModes:
+- interactive
+UpgradeBehavior: install
+Installers:
+- Architecture: x86
+  InstallerUrl: https://cdn.teamxlink.co.uk/kai/XLinkKai-7.4.43-win32.exe
+  InstallerSha256: E4571503B5E1B0E493AC7A4268D1295CAFFC7307FE180831EB86669018021BE6
+ManifestType: installer
+ManifestVersion: 1.1.0
